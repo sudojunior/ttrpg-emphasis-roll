@@ -8,14 +8,18 @@ components:
   - type: 1
     components:
       - type: 2
+        style: 1
         label: Function
-        value: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/function.yml
+        custom_id: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/function.yml
       - type: 2
+        style: 1
         label: Occurances
-        value: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/occurances/$use-case.yml
+        custom_id: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/occurances/$use-case.yml
       - type: 2
+        style: 1
         label: Tiebreakers
-        value: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/tiebreakers.yml
+        custom_id: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/tiebreakers.yml
       - type: 2
+        style: 1
         label: Credits
-        value: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/credits.yml
+        custom_id: btn-msg:sudojunior/ttrpg-emphasis-roll@main#router/credits.yml
