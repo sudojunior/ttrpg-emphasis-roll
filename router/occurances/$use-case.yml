@@ -1,5 +1,5 @@
 embeds:
-  - title: Use case
+  - title: Use cases
     description: |
       This kind of roll could be sparsely called for but makes for more definitive narrative results when employed. This is a tool to build suspense, and allow more coherent results when weaving together the outcome of a narrative.
 
@@ -11,23 +11,23 @@ components:
         custom_id: pick-msg
         placeholder: Rolling with Emphasis could occur when...
         options:
-          - label: 1) Ability checks
+          - label: Ability checks
             value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/1_ability-checks.yml
             emoji:
               name: "1️⃣"
-          - label: 2) No modifiers
+          - label: No modifiers
             value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/2_no-modifiers.yml
             emoji:
               name: "2️⃣"
-          - label: 3) Greater extremes
+          - label: Greater extremes
             value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/3_greater-extremes.yml
             emoji:
               name: "3️⃣" # 💥
-          - label: 4) Traditional unmodified D20 roll
+          - label: Traditional unmodified D20 roll
             value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/4_traditional-roll.yml
             emoji:
               name: "4️⃣"
-          - label: 5) Replace cancellation with this
+          - label: Replace cancellation with this
             value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/5_replace-cancellation.yml
             emoji:
               name: "5️⃣"
