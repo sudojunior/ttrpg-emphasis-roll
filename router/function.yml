@@ -1,0 +1,7 @@
+embeds:
+  - title: Rolling 2D20 & taking the result furthest away from 10
+    description: |
+      "I'd call that an emphasis\* roll; **when you're in a situation where you'll likely succeed well** (get past the moss without slipping) **or fail miserably** (slip badly and slide back down to where you were but now wet and muddy), **and where middling results are less likely** (if you slip a little you're not likely to be able to grab on and then keep going without additional difficulty)."
+
+    footer:
+      text: "- Random Youtube Theorist"

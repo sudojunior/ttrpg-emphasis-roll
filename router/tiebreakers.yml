@@ -1,0 +1,4 @@
+embeds:
+  title: "Variant Rule: Tiebreakers"
+  description: |
+    If you roll two numbers equidistant from 10 (such as 7 and 13), you take the higher result.

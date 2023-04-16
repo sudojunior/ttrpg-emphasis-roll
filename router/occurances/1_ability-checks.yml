@@ -1,0 +1,6 @@
+embeds:
+  - title: Your DM considers ability checks not by DC but by the quality of the roll.
+    description: |
+      According to the Dungeon Master's Guide, ability checks are judged on predetermined Difficult Class (DC), where if a player does not meet the required number, their intended action fails. Many dungeon masters several years out from the start of fifth edition no longer adjudicate in such a binary manner, and __this mechanic only works if the DM judges rolls on a curve instead of pass/fail.__
+    thumbnail:
+      url: https://em-content.zobj.net/thumbs/120/twitter/322/keycap-digit-one_31-fe0f-20e3.png

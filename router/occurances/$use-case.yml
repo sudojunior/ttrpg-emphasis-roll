@@ -1,0 +1,33 @@
+embeds:
+  - title: Use case
+    description: |
+      This kind of roll could be sparsely called for but makes for more definitive narrative results when employed. This is a tool to build suspense, and allow more coherent results when weaving together the outcome of a narrative.
+
+      If you roll two numbers equidistant from 10 (such as 7 and 13), you roll again.
+components:
+  - type: 1
+    components:
+      - type: 3
+        custom_id: pick-msg
+        placeholder: Rolling with Emphasis could occur when...
+        options:
+          - label: 1) Ability checks
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/1_ability-checks.yml
+            emoji:
+              name: "1️⃣"
+          - label: 2) No modifiers
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/2_no-modifiers.yml
+            emoji:
+              name: "2️⃣"
+          - label: 3) Greater extremes
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/3_greater-extremes.yml
+            emoji:
+              name: "3️⃣" # 💥
+          - label: 4) Traditional unmodified D20 roll
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/3_greater-extremes.yml
+            emoji:
+              name: "4️⃣"
+          - label: 5) Replace cancellation with this
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/3_greater-extremes.yml
+            emoji:
+              name: "5️⃣"
