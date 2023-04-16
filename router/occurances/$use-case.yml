@@ -11,6 +11,10 @@ components:
         custom_id: pick-msg
         placeholder: Rolling with Emphasis could occur when...
         options:
+          - label: Use cases
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/$use-case.yml
+            emoji:
+              name: "🔨"
           - label: Ability checks
             value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/1_ability-checks.yml
             emoji:
