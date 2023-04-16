@@ -2,4 +2,11 @@ embeds:
   - title: Credits
     description: |
       [Worlds Beyond Number](https://worldsbeyondnumber.com/)
-      [Reddit Post by u/RAINING_DAYS](https://www.reddit.com/r/UnearthedArcana/comments/11yiatw/brennen_lee_mulligans_new_rolling_with_emphasis/)
+      [Reddit Post by u/RAINING_DAYS](https://redd.it/11yiatw)
+      > [Explainer Comment](https://redd.it/jd7ofot) - [Document](https://homebrewery.naturalcrit.com/share/wyL-vuEIDrbC)
+      
+    fields:
+      - name: AnyDice Programs
+        value: |
+          [Minimal](https://anydice.com/program/2e749) - [u/WideShining_Thea](https://redd.it/11yif0x) on Reddit
+          [Expanded](https://anydice.com/program/2edb6) - [HighDiceRoller](https://rpg.stackexchange.com/a/205724) on RPG Stack Exchange
