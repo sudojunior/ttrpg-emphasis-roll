@@ -24,10 +24,10 @@ components:
             emoji:
               name: "3️⃣" # 💥
           - label: 4) Traditional unmodified D20 roll
-            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/3_greater-extremes.yml
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/4_traditional-roll.yml
             emoji:
               name: "4️⃣"
           - label: 5) Replace cancellation with this
-            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/3_greater-extremes.yml
+            value: sudojunior/ttrpg-emphasis-roll@main#router/occurances/5_replace-cancellation.yml
             emoji:
               name: "5️⃣"
