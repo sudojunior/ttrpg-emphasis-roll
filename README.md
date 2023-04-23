@@ -16,6 +16,12 @@ There are multiple sources, and I was unable to find the direct reference that t
 - [Reddit Post by u/RAINING_DAYS](https://www.reddit.com/r/UnearthedArcana/comments/11yiatw/brennen_lee_mulligans_new_rolling_with_emphasis/)
   - [NaturalCrit Home Brewery](https://homebrewery.naturalcrit.com/share/wyL-vuEIDrbC)
 
+### AnyDice Programs
+
+- [Minimal](https://anydice.com/program/2e749) - [u/WideShining_Thea](https://redd.it/11yif0x) on Reddit
+- [Expanded](https://anydice.com/program/2edb6) - [HighDiceRoller](https://rpg.stackexchange.com/a/205724) on RPG Stack Exchange
+
+
 ## Instructions to run
 
 ```sh
